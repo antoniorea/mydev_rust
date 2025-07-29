@@ -3,6 +3,7 @@ use std::io;
 
 
 
+
 pub fn string_to_float ( ) -> f64 {
 
     println!("Introduzca un numero :");

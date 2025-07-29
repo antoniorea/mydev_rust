@@ -6,7 +6,7 @@ fn main() {
     let  b = mydev_rust::string_to_float ( );
 
 
-        println!("La suma de {:2} y {:2} es : {:2}", a , b, suma(a, b));
+        println!("La suma de {:.2} y {:.2} es : {:.2}", a , b, suma(a, b));
 
 }
 
